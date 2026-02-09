@@ -1,0 +1,7 @@
+# Stormworks/Editor noise
+.DS_Store
+Thumbs.db
+*.xml.bak
+
+# Lua tooling caches
+.luarocks/
