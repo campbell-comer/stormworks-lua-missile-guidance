@@ -1,4 +1,5 @@
 -- Hybrid Missile Guidance (SARH-ARH)
+-- In collaboration with Vladd.
 --
 -- Semi-Active Radar Homing / Active Radar Homing hybrid guidance system
 -- with Proportional Navigation (PN) and PID flight controllers.
